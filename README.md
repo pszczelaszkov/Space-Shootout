@@ -1,5 +1,5 @@
 # Space-Shootout
 Android Game using JMonkeyEngine3
+Game deleted from store due to compatibility issues, maybe its time for relaunch.
 
-[Space Shootout](https://play.google.com/store/apps/details?id=com.pszczelaszkov.spaceShootout)
 
